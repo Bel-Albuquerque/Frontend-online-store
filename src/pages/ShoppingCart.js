@@ -102,7 +102,7 @@ class ShoppingCart extends React.Component {
     return (
       <div>
         {!ShoppingCartStorage
-          ? <p data-testid="shopping-cart-empty-message">O seu carrinho está vazio</p>
+          ? <p data-testid="shopping-cart-empty-message">Seu carrinho está vazio</p>
           : this.addToCart()}
       </div>
     );
