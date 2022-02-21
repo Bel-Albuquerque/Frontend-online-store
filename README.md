@@ -1,4 +1,4 @@
-# Trivia-react-redux
+# Frontend online store
 
 --------
 ## Projeto em grupo, realizado no módulo de fundamentos
