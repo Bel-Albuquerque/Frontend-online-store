@@ -1,7 +1,7 @@
 # Frontend online store
 
 --------
-## Projeto em grupo, realizado no módulo de fundamentos
+## Projeto em grupo, realizado no módulo de front-end
 
 
 grupo: [Bel Albuquerque](https://github.com/Bel-Albuquerque), [Danilo Uehara](https://github.com/DaniloUehara), [Jean Marcel](https://github.com/jeanmarv) e [Mayara Andronico](https://github.com/mayandronico)
